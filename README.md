@@ -4,8 +4,8 @@
 
 | 变量名 | 必填 | 备注 |
 | ------------ | ------------ | ------------ |
-| email  | 是  | 登录邮箱  |
-| password  | 是  | 登录密码  |
-| sendkey  | 否  | server酱Key  |
+| EMAIL  | 是  | 登录邮箱  |
+| PASSWORD  | 是  | 登录密码  |
+| SENDKEY  | 否  | server酱Key  |
 
 
